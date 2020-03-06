@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Employee Directory React",
+      "github": "https://github.com/ccotheceo/Employee-Directory-React",
+      "deployed": "",
+      "image": "EmployeeDirectoryReact.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Reverse Engineering Code",
+      "github": "https://github.com/ccotheceo/Reverse-Engineering-Code",
+      "deployed": "",
+      "image": "ReverseEngineeringCode.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Code Quiz",
+      "github": "https://github.com/ccotheceo/Code-Quiz",
+      "deployed": "",
+      "image": "CodeQuiz.jpeg"
+    }
+  ]
+  
